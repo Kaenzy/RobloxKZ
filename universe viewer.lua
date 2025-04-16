@@ -1,6 +1,8 @@
 -- Free and Open-source so please leave a Star :D
+-- A cool script btw
 
 -- loadstring(game:HttpGet("https://raw.githubusercontent.com/Kaenzy/RobloxKZ/refs/heads/main/universe%20viewer.lua"))()
+
 -- copy this ↑↑↑
 
 
